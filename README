@@ -1,0 +1,5 @@
+Range Layer
+
+A Range Layer implementaion to use sensor_msgs/Range in costmap.
+
+See http://www.geduino.org/ for more information about Geduino and Geduino Foundation.
